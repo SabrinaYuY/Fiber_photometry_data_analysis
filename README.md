@@ -10,6 +10,7 @@ The code includes two part.
 
 ## File Structure
 The dataset is stored in a tdt system generated file format
+- Get it with a dropbox link: https://www.dropbox.com/scl/fo/j7iapyj3py4270dp5hp26/h?rlkey=iacwu25nmztyd709aomkzg564&dl=0
 
 ## Requirements
 To analyze the data, you will need Python installed on your machine, along with the following libraries:
@@ -18,8 +19,10 @@ To analyze the data, you will need Python installed on your machine, along with 
 - Pandas
 - Matplotlib
 - SciPy
+- os
+- Statistics
 
 Ensure these are installed by running:
 ```bash
-pip install tdt numpy pandas matplotlib scipy
+pip install tdt numpy pandas matplotlib scipy os statistics
 
