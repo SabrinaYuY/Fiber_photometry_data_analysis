@@ -2,11 +2,10 @@
 
 ## Introduction
 This repository contains analysis pipeline for fiber photometry experiments conducted to monitor the activity of UCN Edinger Wesphal populations in vivo. 
-The code includes two part.  
-1. Fiberphotometry data anlysis.
+The code includes two parts.  
+ Fiberphotometry data anlysis.
   - Z score analysis
   - Area under curve calculation (todo)
-3. Behavior data analysis based on Ethovision generated files.
 
 ## File Structure
 The dataset is stored in a tdt system generated file format
