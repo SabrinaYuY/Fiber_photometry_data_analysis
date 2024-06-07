@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the analysis pipeline for fiber photometry experiments conducted to monitor the activity of Urocortin-expressing Edinger Westphal neurons in vivo. 
 The code includes two parts:  
- Fiberphotometry data anlysis.
+ Fiber photometry data analysis.
   - Z score analysis
   - Area under curve calculation (todo)
 
