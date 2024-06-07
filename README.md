@@ -1,8 +1,8 @@
 # Fiber Photometry Data Analysis for Ucn
 
 ## Introduction
-This repository contains analysis pipeline for fiber photometry experiments conducted to monitor the activity of UCN Edinger Wesphal populations in vivo. 
-The code includes two parts.  
+This repository contains the analysis pipeline for fiber photometry experiments conducted to monitor the activity of Urocortin-expressing Edinger Westphal neurons in vivo. 
+The code includes two parts:  
  Fiberphotometry data anlysis.
   - Z score analysis
   - Area under curve calculation (todo)
